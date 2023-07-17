@@ -1,0 +1,25 @@
+
+:root{
+  --black:#000;
+  --grey:#ddd;
+  --white:#ffff;
+  --font-grey:#717171;
+  --theme:#ff385c;
+  --light-grey:#f7f7f7;
+}
+
+
+
+
+body {
+  margin: 0;
+  font-family:"Nunito Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
